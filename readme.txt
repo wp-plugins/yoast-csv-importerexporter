@@ -1,4 +1,4 @@
-=== WordPress SEO by Yoast CSV Importer/Exporter ===
+=== WP SEO by Yoast CSV Importer/Exporter ===
 Contributors: freddielore
 Tags: CSV, import, export, yoast, SEO
 Donate link: http://bit.ly/1CljPqF
