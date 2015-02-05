@@ -1,0 +1,110 @@
+/** wp-admin custom stylesheet */
+.upload-ongoing{
+	background: url(../images/loader.gif) no-repeat center center;
+}
+
+.upload-success{
+	background: url(data:image/png;base64,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) no-repeat center center;
+}
+
+#csv_xml_form fieldset{
+	border: 1px solid #CCCCCC;
+	margin: 0 2% 2% 0;
+	text-align: center;
+	width: 40%;
+	float: left;
+	padding: 10px;
+}
+
+#csv_xml_form legend{
+	padding: 0px 5px;
+	font-weight: bold;
+	font-size: 16px;
+	color: #666;
+}
+
+.fl_yoast_csv_settings_page .third ul li{
+	cursor: move;
+	color: #906;
+	font-weight: bold;
+}
+
+div.import-results{
+	display: none; 
+	max-height: 200px; 
+	overflow: auto; 
+	background: #fff; 
+	border: 1px solid #ccc; 
+	padding: 5px 10px;
+}
+
+/** Tooltip */
+
+a.tooltip{
+	width: 16px;
+	height: 16px;
+	background: url(../images/question.png) no-repeat;
+	display: inline-block;
+	text-decoration: none;
+}
+
+#tooltip
+{
+	text-align: center;
+	text-shadow: 0 1px rgba( 0, 0, 0, .5 );
+	line-height: 1.5;
+	color: #fff;
+	background: #333;
+	background: -webkit-gradient( linear, left top, left bottom, from( rgba( 0, 0, 0, .6 ) ), to( rgba( 0, 0, 0, .8 ) ) );
+	background: -webkit-linear-gradient( top, rgba( 0, 0, 0, .6 ), rgba( 0, 0, 0, .8 ) );
+	background: -moz-linear-gradient( top, rgba( 0, 0, 0, .6 ), rgba( 0, 0, 0, .8 ) );
+	background: -ms-radial-gradient( top, rgba( 0, 0, 0, .6 ), rgba( 0, 0, 0, .8 ) );
+	background: -o-linear-gradient( top, rgba( 0, 0, 0, .6 ), rgba( 0, 0, 0, .8 ) );
+	background: linear-gradient( top, rgba( 0, 0, 0, .6 ), rgba( 0, 0, 0, .8 ) );
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	border-top: 1px solid #fff;
+	-webkit-box-shadow: 0 3px 5px rgba( 0, 0, 0, .3 );
+	-moz-box-shadow: 0 3px 5px rgba( 0, 0, 0, .3 );
+	box-shadow: 0 3px 5px rgba( 0, 0, 0, .3 );
+	position: absolute;
+	z-index: 100;
+	padding: 5px 10px;
+	font-size: 13px;
+}
+ 
+    #tooltip:after /* triangle decoration */
+    {
+        width: 0;
+        height: 0;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        border-top: 10px solid #111;
+        content: '';
+        position: absolute;
+        left: 50%;
+        bottom: -10px;
+        margin-left: -10px;
+    }
+ 
+        #tooltip.top:after
+        {
+            border-top-color: transparent;
+            border-bottom: 10px solid #111;
+            top: -20px;
+            bottom: auto;
+        }
+ 
+        #tooltip.left:after
+        {
+            left: 10px;
+            margin: 0;
+        }
+ 
+        #tooltip.right:after
+        {
+            right: 10px;
+            left: auto;
+            margin: 0;
+        }
