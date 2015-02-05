@@ -13,19 +13,19 @@ Gives WordPress SEO by Yoast a CSV import & export support so you can update you
 == Description ==
 A plugin that gives <a href="https://wordpress.org/plugins/wordpress-seo/" target="_blank">WordPress SEO by Yoast</a> a CSV Import & Export support. With this plugin, you can export and import a large CSV file containing your site's SEO meta data into your WordPress site that has WordPress SEO by Yoast installed. 
 
-##When is it useful?
+= When is it useful? =
 
 This plugin comes in handy when you want to mass-update your site's SEO meta data and you don't want to do it one by one. You can import a CSV file instead and your SEO data will be updated in seconds. 
 
-##See how it works
+= See how it works =
 
 https://www.youtube.com/watch?v=1JbpO29YQhQ
 
-##We can make it better
+= We can make it better =
 
 If you have feature suggestions, feel free to <a target="_blank" href="http://twitter.com/freddielore">contact me</a> or drop by to my <a href="http://techtalkshq.com/" target="_blank">website</a>.
 
-##Credits
+= Credits = 
 
 Special thanks to graphic genius <a href="http://nicoalumbro.com" target="_blank">Nico Alumbro</a> for helping me creating the icon & banners. 
 
