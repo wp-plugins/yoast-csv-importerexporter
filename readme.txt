@@ -1,6 +1,6 @@
-=== WP SEO by Yoast CSV Importer/Exporter ===
+=== Smart CSV Importer/Exporter ===
 Contributors: freddielore
-Tags: CSV, import, export, yoast, SEO
+Tags: CSV, import, export, yoast, SEO, bulk
 Donate link: http://bit.ly/1CljPqF
 Requires at least: 3.6
 Tested up to: 4.1
