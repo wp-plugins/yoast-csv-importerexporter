@@ -3,7 +3,7 @@
 Plugin Name: WordPress SEO by Yoast CSV Importer/Exporter
 Plugin URI: http://twitter.com/freddielore
 Description: Mass-update your site's SEO meta data in seconds by importing a comma-delimited CSV file. CSV export also supported.
-Version: 1.0
+Version: 1.1
 Author: Freddie Lore
 Author URI: http://twitter.com/freddielore
 License: GPL2
