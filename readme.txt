@@ -4,7 +4,7 @@ Tags: CSV, import, export, yoast, SEO, bulk
 Donate link: http://bit.ly/1CljPqF
 Requires at least: 3.6
 Tested up to: 4.1
-Stable tag: trunk
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -44,6 +44,8 @@ This plugin heavily relies on JavaScript. If one of your plugins has JavaScript 
 3. The export tab. Here you can specify the post types you want to export
 
 == Changelog ==
+= 1.1 =
+* Fixes and enhancements
 = 1.0 =
 * Initial release
 
